@@ -1,5 +1,7 @@
 # zenhub-client
 
+[![wercker status](https://app.wercker.com/status/9e8d950f6fd2826cae1d779858a85b79/s/master "wercker status")](https://app.wercker.com/project/bykey/9e8d950f6fd2826cae1d779858a85b79)
+
 Unofficial client library of [ZenHub.io](https://www.zenhub.io/) written in golang.
 
 ## Usage
